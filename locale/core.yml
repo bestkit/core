@@ -410,7 +410,7 @@ core:
     # 索引页面，与讨论列表相关
     index:
       all_discussions_link: => core.ref.all_discussions
-      cannot_start_discussion_button:无法开始讨论
+      cannot_start_discussion_button: 无法开始讨论
       mark_all_as_read_confirmation: "您确定要将所有讨论标记为已读吗？"
       mark_all_as_read_tooltip: => core.ref.mark_all_as_read
       meta_title_text: => core.ref.all_discussions

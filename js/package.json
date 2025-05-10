@@ -3,7 +3,7 @@
     "name": "@bestkit/core",
     "version": "0.0.1",
     "type": "module",
-    "prettier": "prettier-config",
+    "prettier": "bestkit-prettier",
     "dependencies": {
         "@askvortsov/rich-icu-message-formatter": "^0.2.4",
         "@ultraq/icu-message-formatter": "^0.12.0",
@@ -22,7 +22,7 @@
         "throttle-debounce": "^3.0.1"
     },
     "devDependencies": {
-        "prettier-config": "^1.0.0",
+        "bestkit-prettier": "^1.0.0",
         "@types/body-scroll-lock": "^3.1.0",
         "@types/jquery": "^3.5.10",
         "@types/mithril": "^2.0.8",
